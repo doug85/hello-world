@@ -1,4 +1,4 @@
 # hello-world
 first git project
 
-This is just a test project to get familiar with Git
+This is just a test project to get familiar with Git. It's pretty pointless.
